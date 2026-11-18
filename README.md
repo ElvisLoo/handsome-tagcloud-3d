@@ -1,3 +1,5 @@
+> **已并入总仓** [ElvisLoo/typecho-handsome-widgets](https://github.com/ElvisLoo/typecho-handsome-widgets)，本仓保留、仍可单独 clone。
+
 # Typecho Handsome 标签云 3D 球挂件
 
 给 Typecho 的 Handsome 主题加一个侧栏 3D 标签球：**零模板改动、零依赖、零数据库写入**。就地读取主题已经输出的标签段（`#tag_cloud` / `#tag_cloud-post` 里的 `a.label`），把标签铺到球面上自转；拖拽可旋转、松手带惯性，点标签先平滑转到正面再跳转。
